@@ -39,7 +39,7 @@
       "cron": "0 2 * * *",
       "path": "/api/task/refresh",
       "method": "POST",
-      "payload": { "cron_secret": "" },
+      "payload": { "cron_secret": "jdah_YunTv77DB4huGe2_SWVzSfmpoFHxvUsDbSn448" },
       "timezone": "Asia/Shanghai"
     }
   ]
